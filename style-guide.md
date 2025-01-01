@@ -23,6 +23,14 @@ The designs were created to the following widths:
 - Grey 500 (medium): hsl(186, 15%, 59%)
 - Grey 900 (darker): hsl(187, 24%, 22%)
 
+Green 200 (lighter): #DFF0E7
+Green 600 (medium): #0C7D68
+Red: #D73C3C
+Neutral
+White: #FFFFFF
+Grey 500 (medium): #86A2A6
+Grey 900 (darker): #2A4245 ​
+
 ## Typography
 
 ### Body Copy
